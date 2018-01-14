@@ -25,7 +25,7 @@ $apps = @(
     "Microsoft.Office.OneNote"
     #"Microsoft.OneConnect"
     "Microsoft.People"
-    "Microsoft.SkypeApp"
+    #"Microsoft.SkypeApp"
     #"Microsoft.Windows.Photos"
     "Microsoft.WindowsAlarms"
     #"Microsoft.WindowsCalculator"
